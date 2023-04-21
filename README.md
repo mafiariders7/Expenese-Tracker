@@ -1,15 +1,20 @@
-# Getting Started with Create React App
+#This is a Expense Tracker App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-and TailWind CSS
+Link
 
-## Available Scripts
+You can Track - Each expense 
+              - How Much your Total Balance 
+              - What is your total Income and total Expense
+              
+This project was bootstrapped with React and TailWind CSS
 
-In the project directory, you can run:
 
-### `npm start`
+To run the app localy :
+### `Clone this repo`
+### `Download the noad modules`
+### `Run npm start in cmd`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The app will run your local Host
+
 
 
