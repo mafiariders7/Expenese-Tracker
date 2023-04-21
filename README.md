@@ -11,7 +11,7 @@ This project was bootstrapped with React and TailWind CSS
 
 To run the app localy :
 ### `Clone this repo`
-### `Download the noad modules`
+### `Download the node modules`
 ### `Run npm start in cmd`
 
 The app will run your local Host
