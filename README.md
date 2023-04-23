@@ -1,5 +1,6 @@
 # This is a Expense Tracker App
- ## [Click here](https://expense-tracker-fairy-18c518.netlify.app/)
+ ## [Click here](https://expense-tracker-fairy-18c518.netlify.app/) to visit the website
+ 
 
 # You can Track
     - Each expense
